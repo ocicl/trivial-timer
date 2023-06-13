@@ -1,0 +1,10 @@
+* trivial-timer
+
+A Common Lisp library that allows for easy scheduling of tasks (functions). (This is a mirror from GitLab)
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-timer.git   |
+| commit  | d1f7422  |
+| systems | trivial-timer |
+|---------+-------------------------------------------|
+
