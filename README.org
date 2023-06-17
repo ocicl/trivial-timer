@@ -1,10 +1,9 @@
 * trivial-timer
 
-A Common Lisp library that allows for easy scheduling of tasks (functions). (This is a mirror from GitLab)
+A Common Lisp library that allows for easy scheduling of tasks (functions).
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/ediethelm/trivial-timer.git   |
-| commit  | d1f7422  |
-| systems | trivial-timer |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-timer.git |
+| commit  | 6df142c35804e04b6adb00f381f2af3cab1fcf8a           |
+| systems | trivial-timer                                      |
+|---------+----------------------------------------------------|
