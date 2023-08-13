@@ -2,8 +2,9 @@
 
 A Common Lisp library that allows for easy scheduling of tasks (functions).
 
+
 |---------+----------------------------------------------------|
 | source  | git:https://gitlab.com/ediethelm/trivial-timer.git |
-| commit  | 6df142c35804e04b6adb00f381f2af3cab1fcf8a           |
+| commit  | 6df142c                                            |
 | systems | trivial-timer                                      |
 |---------+----------------------------------------------------|
